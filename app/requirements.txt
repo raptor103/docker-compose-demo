@@ -1,0 +1,12 @@
+Flask
+mysql-connector
+pandas
+sqlalchemy
+mysqlclient
+Pillow
+keras
+tensorflow
+numpy
+flake8
+pytest
+black
